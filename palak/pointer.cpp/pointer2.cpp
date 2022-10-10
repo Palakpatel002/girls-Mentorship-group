@@ -10,3 +10,4 @@ int main()
     cout<<*(arr+3)<<endl;
   
   return 0;
+}
